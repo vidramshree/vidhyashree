@@ -8,6 +8,8 @@ while count<=100
 		r=random.randint(1,6)
 		count=count+r
 		print("your random num is",r)
-		print("you are on count",count)
-		
+		print("you are on count")
+#import random
+#random.randint
+
 	
